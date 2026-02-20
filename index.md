@@ -1,21 +1,18 @@
 ---
 layout: default
 title: Home
+hero: true
 ---
 
-# 杨正皓 (Zhenghao Yang)
+## Welcome
+
+I am an undergraduate student at Renmin University of China, working on research in development economics, political economy, and economic history. :contentReference[oaicite:2]{index=2}
 
 <div class="card">
-本科生研究者（Political Economy / Historical Conflict / Political Ideology）。  
-我主要做大规模历史冲突数据与现代微观数据（普查/调查）合并，关注历史暴力、国家能力与长期人力资本与政治态度的关系。
+<b>Current focus.</b> Building large-scale historical conflict datasets and linking them to modern census and survey microdata to study long-run human capital formation and political beliefs. :contentReference[oaicite:3]{index=3}
 </div>
 
-## Research highlights
-
-- **Conflict and Human Capital Formation for Millions over the Millennia** (with Jing You) — accepted to the 39th IARIW General Conference.
-- Historical conflict exposure in China (581–1911) and contemporary political ideology — geo-coded county-level dataset + multiple national surveys.
-
-## Quick links
+## Links
 
 - GitHub: <https://github.com/15haohao>
-- Site repo: <https://github.com/15haohao/15haohao.github.io>
+- Email: <a href="mailto:yangzhenghao15hao@ruc.edu.cn">yangzhenghao15hao@ruc.edu.cn</a> :contentReference[oaicite:6]{index=6}

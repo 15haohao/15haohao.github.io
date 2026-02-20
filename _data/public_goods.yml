@@ -1,0 +1,17 @@
+- title: "Tool: County-level Conflict Density Builder"
+  desc: "Code and pipeline for constructing conflict density indices from geo-coded events."
+  tags: ["Python", "GIS", "Data"]
+  link: "https://github.com/15haohao/REPO_NAME"
+  link_text: "GitHub Repo"
+
+- title: "Dataset: Example Data Package"
+  desc: "A clean, documented dataset release (placeholder)."
+  tags: ["Dataset", "Documentation"]
+  link: "https://drive.google.com/FILE_OR_FOLDER_LINK"
+  link_text: "Google Drive"
+
+- title: "Template: Research Note / Replication Checklist"
+  desc: "A lightweight template for replication and documentation."
+  tags: ["Template"]
+  link: "https://github.com/15haohao/REPO_NAME"
+  link_text: "GitHub"
