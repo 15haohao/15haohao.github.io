@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>
+    {% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}
+  </title>
+  <meta name="description" content="{{ site.description }}" />
+  <link rel="stylesheet" href="/assets/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <div class="brand">
+        <a class="brand-title" href="/"> {{ site.title }} </a>
+        <div class="brand-sub">{{ site.description }}</div>
+      </div>
+
+      <nav class="nav">
+        <a href="/">Home</a>
+        <a href="/about/">About</a>
+        <a href="/projects/">Projects</a>
+        <a href="/cv/">CV</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap content">
+    {{ content }}
+  </main>
+
+  <footer class="wrap footer">
+    <span>© {{ site.time | date: "%Y" }} {{ site.title }}</span>
+    <span class="sep">·</span>
+    <a href="https://github.com/15haohao">GitHub</a>
+  </footer>
+</body>
+</html>
