@@ -13,43 +13,46 @@ title: About
     <h1>Zhenghao Yang</h1>
 
     <p class="about-lead">
-      Undergraduate student at Renmin University of China. I study development economics, political economy, and economic history, with a focus on China.
+      Undergraduate student at Renmin University of China.
     </p>
 
     <table class="info-table">
       <tr>
         <th>Affiliation</th>
-        <td>Renmin University of China (RUC)</td>
+        <td>
+            RUC School of CPC History and Party Building<br>
+            RUC Hillhouse Academy
+        </td>
       </tr>
       <tr>
         <th>Research interests</th>
         <td>Development Economics; Political Economy; Economic History; Chinese Economy</td>
       </tr>
       <tr>
-        <th>Current projects</th>
+        <th>Fellowship & Awards</th>
         <td>
-          Building large-scale geo-coded datasets of historical conflict and linking them to modern census and survey microdata.
+          National Scholarship <br>
+          Qiushi Academic Grant (￥10,000)
+          First Prize, 16th National College Student Mathematics Competition
         </td>
       </tr>
       <tr>
-        <th>Email</th>
-        <td class="info-links"><a href="mailto:yangzhenghao15hao@ruc.edu.cn">yangzhenghao15hao@ruc.edu.cn</a></td>
-      </tr>
-      <tr>
-        <th>Social</th>
-        <td class="info-links">
-          <a href="https://github.com/15haohao" target="_blank" rel="noopener">GitHub</a>
-          &nbsp;·&nbsp;
-          <a href="https://scholar.google.com/" target="_blank" rel="noopener">Google Scholar</a>
-          &nbsp;·&nbsp;
-          <a href="https://twitter.com/" target="_blank" rel="noopener">X</a>
-        </td>
-      </tr>
+  <th>Email</th>
+  <td class="info-links">
+    <a href="mailto:yangzhenghao15hao@ruc.edu.cn">yangzhenghao15hao@ruc.edu.cn</a><br>
+    <a href="mailto:yangshiwuhao@gmail.com">yangshiwuhao@gmail.com</a>
+  </td>
+</tr>
+    <th>Social</th>
+    <td class="info-links">
+        <a href="https://github.com/15haohao" target="_blank" rel="noopener">GitHub</a>
+        &nbsp;&nbsp;
+        WeChat: <span class="plain-text">yang-15hao</span>
+        &nbsp;&nbsp;
+        <a href="https://space.bilibili.com/503076362" target="_blank" rel="noopener">Bilibili</a>
+    </td>
     </table>
 
-    <p class="small-note">
-      (You can add a short note here, e.g., “CV available upon request” or a one-line update.)
-    </p>
   </div>
 
 </div>
