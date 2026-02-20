@@ -212,3 +212,61 @@ ul{margin:8px 0 0 18px}
   height: auto;
   object-fit: contain; /* 不裁剪，完整显示 */
 }
+
+/* ===== Hero banner: no dark overlay / no frame ===== */
+.banner{
+  height: 230px;         /* 你要更高更矮自己调 */
+}
+
+.banner-overlay{
+  display: none;         /* 关键：关闭黑色遮罩 */
+}
+
+.banner-bg{
+  filter: none;          /* 去掉任何滤镜（饱和/暗化） */
+}
+
+/* Remove About photo frame */
+.about-photo{
+  border: none !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+  overflow: visible !important;
+}
+
+/* Keep image nice, but no container frame */
+.about-photo img{
+  border-radius: 0px;   /* 想完全没圆角就改成 0 */
+  display: block;
+}
+
+/* Two photos in a row (Life page) */
+.photo-row{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+  margin: 12px 0 0;
+}
+
+.photo-card{
+  margin: 0;
+}
+
+.photo-card img{
+  width: 100%;
+  height: auto;
+  border-radius: 14px;
+  display: block;
+}
+
+.photo-card figcaption{
+  font-size: 14px;
+  color: var(--muted);
+  margin-top: 8px;
+}
+
+@media (max-width: 820px){
+  .photo-row{ grid-template-columns: 1fr; }
+}
