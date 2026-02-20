@@ -32,7 +32,7 @@ title: About
         <th>Fellowship & Awards</th>
         <td>
           National Scholarship <br>
-          Qiushi Academic Grant (￥10,000)
+          Qiushi Academic Grant (￥10,000) <br>
           First Prize, 16th National College Student Mathematics Competition
         </td>
       </tr>

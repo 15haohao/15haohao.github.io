@@ -201,3 +201,14 @@ ul{margin:8px 0 0 18px}
   position:absolute; inset:0;
   background: linear-gradient(90deg, rgba(0,0,0,.35), rgba(0,0,0,.10));
 }
+
+.about-photo{
+  max-height: 520px;   /* 先用 520，觉得还大就改成 480/460 */
+}
+
+.about-photo img{
+  max-height: 520px;   /* 同步 */
+  width: 100%;
+  height: auto;
+  object-fit: contain; /* 不裁剪，完整显示 */
+}
