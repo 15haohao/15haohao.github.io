@@ -110,3 +110,94 @@ ul{margin:8px 0 0 18px}
   font-size:14px;
 }
 .sep{margin:0 8px;color:#aaa}
+
+/* ===== About layout (photo left, info right) ===== */
+.about{
+  display:grid;
+  grid-template-columns: 420px 1fr;
+  gap: 26px;
+  align-items:start;
+  margin-top: 10px;
+}
+
+@media (max-width: 900px){
+  .about{ grid-template-columns: 1fr; }
+}
+
+.about-photo{
+  width:100%;
+  border-radius:18px;
+  border:1px solid var(--border);
+  overflow:hidden;
+  background:#fff;
+}
+
+.about-photo img{
+  width:100%;
+  height:auto;              /* 关键：自由比例，不强制裁剪 */
+  display:block;
+}
+
+.about-right h1{
+  margin:0 0 10px 0;
+  font-size: 34px;
+  line-height:1.15;
+}
+
+.about-lead{
+  margin:0 0 14px 0;
+  color: var(--muted);
+  font-size: 15px;
+}
+
+.info-table{
+  width:100%;
+  border-collapse:collapse;
+  margin-top: 10px;
+}
+
+.info-table tr{
+  border-top: 1px solid var(--border);
+}
+
+.info-table th,
+.info-table td{
+  padding: 10px 0;
+  vertical-align:top;
+  text-align:left;
+  font-size: 15px;
+}
+
+.info-table th{
+  width: 150px;
+  color: var(--muted);
+  font-weight: 600;
+}
+
+.info-links a{
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.small-note{
+  color: var(--muted);
+  font-size: 14px;
+  margin-top: 14px;
+}
+
+/* ===== Global banner (wide image) ===== */
+.banner{
+  position: relative;
+  height: 230px;           /* 你嫌高/低都可以改 */
+  overflow: hidden;
+}
+.banner-bg{
+  position:absolute; inset:0;
+  background-size: cover;
+  background-position: center;
+  filter: saturate(1.05);
+}
+.banner-overlay{
+  position:absolute; inset:0;
+  background: linear-gradient(90deg, rgba(0,0,0,.35), rgba(0,0,0,.10));
+}

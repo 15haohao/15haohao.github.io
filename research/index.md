@@ -7,11 +7,12 @@ title: Research
 
 ## Working papers
 
-1. <b>Conflict and Human Capital Formation for Millions over the Millennia</b> (with Jing You) — accepted to the 39th IARIW General Conference. :contentReference[oaicite:9]{index=9}
+1. **Conflict and Human Capital Formation for Millions over the Millennia** (with Jing You) — accepted to the 39th IARIW General Conference.
 
-2. <b>The Origin of Ideology: Historical Conflicts and Political Beliefs</b> (with Jing You and Yujing Zhang). :contentReference[oaicite:10]{index=10}
+2. **The Origin of Ideology: Historical Conflicts and Political Beliefs** (with Jing You and Yujing Zhang).
 
 ## Work in progress
 
-- <b>State Building and Channeling: The Role of State Capacity in China’s Economic Development</b> (with Huihua Nie, Jing You). :contentReference[oaicite:11]{index=11}  
-- <b>From Growth to Resilience: Geopolitical Risk, Provincial Elite Rotation, and Development Reorientation in China</b> (with Jiagang Chen). :contentReference[oaicite:12]{index=12}
+- **State Building and Channeling: The Role of State Capacity in China’s Economic Development** (with Huihua Nie and Jing You).
+
+- **From Growth to Resilience: Geopolitical Risk, Provincial Elite Rotation, and Development Reorientation in China** (with Jiagang Chen).
