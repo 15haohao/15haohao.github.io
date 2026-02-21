@@ -48,8 +48,6 @@ title: About
         <a href="https://github.com/15haohao" target="_blank" rel="noopener">GitHub</a>
         &nbsp;&nbsp;
         WeChat: <span class="plain-text">yang-15hao</span>
-        &nbsp;&nbsp;
-        <a href="https://space.bilibili.com/503076362" target="_blank" rel="noopener">Bilibili</a>
     </td>
     </table>
 
