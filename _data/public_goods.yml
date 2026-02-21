@@ -1,11 +1,11 @@
-- title: "Tool: County-level Conflict Density Builder"
-  desc: "Code and pipeline for constructing conflict density indices from geo-coded events."
-  tags: ["Python", "GIS", "Data"]
-  link: "https://github.com/15haohao/REPO_NAME"
-  link_text: "GitHub Repo"
+- title: "Tool: https://github.com/15haohao/Character-Profile-Structured-Extractor"
+  desc: "A structured extraction tool for biographical profiles that can rapidly extract large volumes of personal information."
+  tags: ["NLP", "Data"]
+  link: "https://github.com/15haohao/Character-Profile-Structured-Extractor"
+  link_text: "GitHub"
 
 - title: "Dataset: Complete List of Chinese Counties"
-  desc: "Historical Changes and Administrative Codes of Over 2,000 Counties and Districts in China, from 1949 to 2020."
+  desc: "Historical Changes and Administrative Codes of Over 2,000 Counties and Districts in China, from 1980 to 2024."
   tags: ["Dataset", "Documentation"]
   link: "https://docs.google.com/spreadsheets/d/1HI3Q8bYidk_ps_LvKscd5cZZjGJMhDoW/edit?usp=drive_link&ouid=117779926058264154742&rtpof=true&sd=true"
   link_text: "Google Drive"
