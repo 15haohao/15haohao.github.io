@@ -10,8 +10,8 @@
   link: "https://docs.google.com/spreadsheets/d/1HI3Q8bYidk_ps_LvKscd5cZZjGJMhDoW/edit?usp=drive_link&ouid=117779926058264154742&rtpof=true&sd=true"
   link_text: "Google Drive"
 
-- title: "Template: Research Note / Replication Checklist"
-  desc: "A lightweight template for replication and documentation."
-  tags: ["Template"]
-  link: "https://github.com/15haohao/REPO_NAME"
+- title: "Template: Amap POI Extraction (Polygon Version)"
+  desc: "A template for extracting Points of Interest (POI) from Amap, utilizing polygon-based extraction methods to enhance accuracy and efficiency."
+  tags: ["Template", "Data Extraction", "Amap"]
+  link: "https://github.com/15haohao/Amap-POI-Extraction-Polygon-Version-"
   link_text: "GitHub"
