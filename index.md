@@ -26,7 +26,7 @@ title: About
       </tr>
       <tr>
         <th>Research interests</th>
-        <td>Development Economics; Political Economy; Economic History; Chinese Economy</td>
+        <td>Development Economics; Political Economy; Labor Economics; Economic History</td>
       </tr>
       <tr>
         <th>Fellowship & Awards</th>
