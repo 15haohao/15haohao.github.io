@@ -9,7 +9,7 @@ title: Research
 
 1. **Conflict and Human Capital Formation of Millions over the Millennia** (with Jing You)
 
-2. **The Origin of Ideology: Historical Conflicts and Political Beliefs** (with Jing You and Yujing Zhang).
+2. **The Origin of Ideology: Historical Conflicts and Political Beliefs** (with Jing You and Yujing Zhang, accepted to RES 2026 Annual Conference).
 
 ## Work in progress
 
