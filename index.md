@@ -6,7 +6,7 @@ title: About
 <div class="about">
 
   <div class="about-photo">
-    <img src="/assets/img/about-photo.jpg" alt="Zhenghao Yang">
+    <img src="/assets/img/about-photo-1.jpg" alt="Zhenghao Yang">
   </div>
 
   <div class="about-right">

@@ -7,9 +7,13 @@ title: Research
 
 ## Working papers
 
-1. **Conflict and Human Capital Formation of Millions over the Millennia** (with Jing You)
+1. **Conflict and Human Capital Formation of Millions over the Millennia.** (with Jing You)
 
-2. **The Origin of Ideology: Historical Conflicts and Political Beliefs** (with Jing You and Yujing Zhang, accepted to RES 2026 Annual Conference).
+2. **The Origin of Ideology: Historical Conflicts and Political Beliefs.** (with Jing You and Yujing Zhang, accepted to RES 2026 Annual Conference & IAAE Annual Conference 2026)
+
+3. **Preparing Future Competitors: The Impact of Learning STEM on Competitive Inclinations and Aspirations.** (with Jing You, Shihan Yun, and Yaowei Lu)
+
+4. **SCAR: Summary-Driven Consolidation Attacks on Rule Formation in Hierarchical Memory Agents** (with Haoran Zhang and Xinzhe Cui, NeurIPS 2026 submitted)
 
 ## Work in progress
 
