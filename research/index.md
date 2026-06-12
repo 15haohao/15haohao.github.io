@@ -13,8 +13,6 @@ title: Research
 
 3. **Preparing Future Competitors: The Impact of Learning STEM on Competitive Inclinations and Aspirations.** (with Jing You, Shihan Yun, and Yaowei Lu)
 
-4. **SCAR: Summary-Driven Consolidation Attacks on Rule Formation in Hierarchical Memory Agents** (with Haoran Zhang and Xinzhe Cui, NeurIPS 2026 submitted)
-
 ## Work in progress
 
 - **State Building and Channeling: The Role of State Capacity in China’s Economic Development** (with Huihua Nie and Jing You).
